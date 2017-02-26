@@ -48,5 +48,9 @@ public abstract class Entity {
 	public void setHeight(int height) {
 		this.height = height;
 	}
+	
+	public void test() {
+		
+	}
 
 }
